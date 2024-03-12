@@ -33,7 +33,7 @@ The following Data Frame shows a summary of the Confusion Matrix results:
 
 
 * Healthy Loans can be predicted with almost 100% accuracy across both precision and recall 
-* Loans with a high risk of defaulting are a little harder to predict with only 85% precision and 91% recall figures - this means that there is increased likelihood of the data having false positives and negatives when predicting non-healthy loans than healthy ones
+* Loans with a high risk of defaulting are a little harder to predict with only 86% precision and 91% recall figures - this means that there is increased likelihood of the data having false positives and negatives when predicting non-healthy loans than healthy ones
 * Comparing the support size in the classification score shows that there is indeed a huge imbalance between the amount of data for each variable
 
 
