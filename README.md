@@ -1,6 +1,6 @@
 # Credit-Risk-Classification - Evaluating the Creditworthiness of Borrowers
 
-![image](https://github.com/meehal0203/credit-risk-classification/assets/146681542/fb49daf1-5b85-4f53-82f0-65d4d69e25b0)
+![image](https://github.com/meehal0203/credit-risk-classification/assets/146681542/9d7a906d-a2fe-4c98-9030-906a92b7d4ce)
 
 
 ## Analysis Overview
